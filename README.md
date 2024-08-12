@@ -1,7 +1,6 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+# TempTrek
 
-
-A user-friendly weather application that provides real-time weather updates, forecasts, and detailed weather information for any location worldwide. Built with modern web technologies, this app is designed to offer a seamless user experience with accurate and up-to-date weather data.
+TempTrek is a sleek and user-friendly weather application that provides real-time weather updates, forecasts, and detailed meteorological data for any location worldwide. With its intuitive interface and powerful features, TempTrek ensures you are always prepared for the day ahead.
 
 Live-Demo : https://main--shiny-nasturtium-33876d.netlify.app/
 
